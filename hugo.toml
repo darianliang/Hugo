@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://darianliang.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Darian Liang'
 theme = 'PaperMod'
 [caches]
   [caches.images]
@@ -22,3 +22,6 @@ theme = 'PaperMod'
     name = "Contact"
     url  = "#contact"
     weight = 4
+[params]
+  homeInfoParams = false
+  defaultTheme = "auto"

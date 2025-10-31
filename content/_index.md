@@ -1,15 +1,12 @@
 +++
-date = '2025-10-30T19:11:16-05:00'
-draft = true
+
+draft = false
 title = 'Darian Liang'
 layout = 'single'
 url = '/'
 +++
 
-# Darian Liang #
 **Computer Science** @ *Northwestern University*
-
-[LinkedIn](https://linkedin.com/in/darian-liang) | [GitHub](https://github.com/darianliang) | darianjliang@gmail.com | Chicago, IL  
 
 ![Portrait of Darian](/images/profile.jpeg)
 
@@ -44,7 +41,7 @@ May 2022 to Jun 2022 --- *Chicago, IL*
 *Jul 2025 – Aug 2025*  
 A macOS desktop app for downloading videos from YouTube, Twitter, Instagram, and Reddit, converting them to MP3/MP4. Includes a custom GUI built with HTML/CSS embedded in Python.
 
-### **VPAP (Video Processing and Analysis Platform) – AWS, Python, SQL**
+### **VPAP – AWS, Python, SQL**
 *Jan 2025 – Mar 2025*  
 Developed a serverless video upload tool using AWS S3 that automatically creates subtitles and thumbnails and supports .mov conversions and downloads.
 
@@ -60,8 +57,8 @@ Built a C++ program for campus-area navigation with building and bus info using 
 
 ## Skills {#skills}
 
-**Languages:** Python, Java, C, C++, C#, x86 & LC-3 Assembly, SQL, HTML, CSS, JavaScript, Ruby  
-**Tools & Frameworks:** AWS, Node.js, React.js, Firebase, Docker, GitHub, Unity, VS Code  
+**Languages:** Python, Java, C, C++, C#, x86, LC-3, SQL, HTML, CSS, JavaScript, Ruby
+**Tools & Frameworks:** AWS, Node.js, React.js, Firebase, Docker, GitHub, Unity, VS Code, IntelliJ, WireShark
 
 ---
 
