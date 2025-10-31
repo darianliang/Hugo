@@ -23,5 +23,5 @@ theme = 'PaperMod'
     url  = "#contact"
     weight = 4
 [params]
-  homeInfoParams = false
   defaultTheme = "auto"
+  disableNavbarTitle = true

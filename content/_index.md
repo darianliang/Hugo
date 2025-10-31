@@ -8,7 +8,7 @@ url = '/'
 
 **Computer Science** @ *Northwestern University*
 
-![Portrait of Darian](/images/profile.jpeg)
+![Portrait](/images/profile.jpeg)
 
 ---
 
