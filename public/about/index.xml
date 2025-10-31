@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>About on My New Hugo Site</title>
+    <title>Abouts on My New Hugo Site</title>
     <link>http://localhost:1313/about/</link>
-    <description>Recent content in About on My New Hugo Site</description>
+    <description>Recent content in Abouts on My New Hugo Site</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 19:11:12 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/my-first-post/</link>
+      <pubDate>Thu, 30 Oct 2025 19:11:12 -0500</pubDate>
+      <guid>http://localhost:1313/about/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;darian-liang&#34;&gt;Darian Liang&lt;/h1&gt;</description>
+    </item>
   </channel>
 </rss>
