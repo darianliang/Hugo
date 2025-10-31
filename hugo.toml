@@ -25,3 +25,6 @@ theme = 'PaperMod'
 [params]
   defaultTheme = "auto"
   disableNavbarTitle = true
+[params.label]
+  text = ""
+  icon = ""
